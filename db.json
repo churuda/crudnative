@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jhonny Oso Guamán Rivera",
+      "telefono": "0992645567",
+      "correo": "Jho.oso@correo.com",
+      "empresa": "Ucuenca ",
+      "id": 2
+    }
+  ]
+}
